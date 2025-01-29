@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola, soy Alejandro 👋
+- 🎓 Actualmente, soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataforma en el instituto CIDE.
 <!--
 **TheAleJaNDr0/TheAleJaNDr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
